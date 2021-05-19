@@ -29,3 +29,11 @@
 ### 📊 Github Stats:
 ![H3lr04t Github Stats](https://github-readme-stats.vercel.app/api?username=h3lr04t&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3lr04t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+***
+
+> "Little knowledge makes people feel proud. Lots of knowledge, feel
+> humble. This is how the grainless ears spit their heads up to the sky,
+> while the floods lower them to the earth, their mother."
+
+***
